@@ -1,0 +1,54 @@
+### OS
+.DS_Store
+
+### IDE
+.idea/
+
+### Node.js
+node_modules/
+
+### Yarn / Pnpm/ Npm
+
+## Yarn@2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+## Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+## Tests
+coverage
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+lib-cov
+*.lcov
+
+## Env file
+.env
+.env.test
+
+### Frameworks
+## Next.js
+.next
+out
+
+## Nuxt.js
+.nuxt
+dist
+
+## Gatsby
+.cache/
+
+
+## Vuepress
+.vuepress/dist
+
+## Serverless
+.serverless/

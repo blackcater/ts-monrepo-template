@@ -1,0 +1,9 @@
+{
+  "name": "@ts-monorepo-template/utils",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {},
+  "author": "blackcater <i@blackcater.dev> (https://blackcater.com/)",
+  "license": "MIT"
+}
